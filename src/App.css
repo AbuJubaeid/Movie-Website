@@ -28,6 +28,10 @@
   font-size: 60px;
   font-family: "Courier New", Courier, monospace;
 }
+.header input {
+  width: 600px;
+  height: 25px;
+}
 
 .header .movie {
   color: rgb(237, 125, 60);
